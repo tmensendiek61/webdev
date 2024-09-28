@@ -1,4 +1,3 @@
-
 /*Media Queries*/
 @media (max-width: 800px) {
     body {
@@ -6,8 +5,7 @@
     }    
   }
 
-
-  @media (min-width: 801px) {
+ @media (min-width: 801px) {
     body {
       background-color: black;
     }
@@ -119,3 +117,7 @@
         background-color:#1b161b;
     }
   }
+
+.padding{
+    padding: 5em;
+}
