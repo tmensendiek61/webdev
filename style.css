@@ -47,6 +47,7 @@ a{
 @media (max-width: 800px) {
     body {
       background-color:  #db7e93;
+      padding: 3em;
     }
         
   }
